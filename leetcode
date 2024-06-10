@@ -37,7 +37,7 @@ Constraints:
 1 <= heights.length <= 100
 1 <= heights[i] <= 100
 
-
+SOLUTION:
   class Solution {
     public int heightChecker(int[] heights) {
         int n=heights.length;
